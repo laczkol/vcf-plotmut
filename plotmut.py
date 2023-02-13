@@ -1,5 +1,3 @@
-#!/opt/miniconda3/bin/python3
-
 #import sys,os,subprocess
 import argparse
 import allel
