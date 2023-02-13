@@ -1,4 +1,4 @@
-# vcf-plotmut
+# vcf-plotmut v.0.1
 Quick and dirty python script to plot the different types of mutations by sample. The input is a `.vcf` file.
 
 ## Dependencies
